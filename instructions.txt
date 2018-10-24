@@ -5,3 +5,5 @@ ABCDEF
 Please refer to the website for more instruction
 
 Tung Ken made some changes here
+
+Changes made in sample branch
